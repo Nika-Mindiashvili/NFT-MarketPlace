@@ -391,6 +391,10 @@ i {
   display: none;
 }
 
+.logo-footer {
+  display: flex;
+}
+
 @media (min-width: 834px) {
   .header-h1 {
     font-size: 38px;
@@ -472,5 +476,3 @@ i {
     height: 47px;
   }
 }
-
-
